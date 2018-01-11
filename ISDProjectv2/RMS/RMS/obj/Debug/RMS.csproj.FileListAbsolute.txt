@@ -1,0 +1,108 @@
+C:\Users\Bilal\Desktop\Project\RMS\RMS\bin\Debug\RMS.exe.config
+C:\Users\Bilal\Desktop\Project\RMS\RMS\bin\Debug\RMS.exe
+C:\Users\Bilal\Desktop\Project\RMS\RMS\bin\Debug\RMS.pdb
+C:\Users\Bilal\Desktop\Project\RMS\RMS\bin\Debug\MaterialSkin.dll
+C:\Users\Bilal\Desktop\Project\RMS\RMS\bin\Debug\MySql.Data.dll
+C:\Users\Bilal\Desktop\Project\RMS\RMS\bin\Debug\MySql.Data.xml
+C:\Users\Bilal\Desktop\Project\RMS\RMS\obj\Debug\RMS.csprojResolveAssemblyReference.cache
+C:\Users\Bilal\Desktop\Project\RMS\RMS\obj\Debug\RMS.LoginForm.resources
+C:\Users\Bilal\Desktop\Project\RMS\RMS\obj\Debug\RMS.Properties.Resources.resources
+C:\Users\Bilal\Desktop\Project\RMS\RMS\obj\Debug\RMS.csproj.GenerateResource.Cache
+C:\Users\Bilal\Desktop\Project\RMS\RMS\obj\Debug\RMS.exe
+C:\Users\Bilal\Desktop\Project\RMS\RMS\obj\Debug\RMS.pdb
+C:\Users\Bilal\Desktop\Project\RMS\RMS\obj\Debug\RMS.Admin.resources
+C:\Users\Bilal\Desktop\Project\RMS\RMS\obj\Debug\RMS.AdminMenu.resources
+C:\Users\Bilal\Desktop\Project\RMS\RMS\obj\Debug\RMS.EditUser.resources
+C:\Users\Bilal\Desktop\Project\RMS\RMS\obj\Debug\RMS.orderMenu.resources
+I:\Course Work\University\5th Semester\Introduction to Software Development\RMS-20171231T215246Z-001\RMS\RMS\bin\Debug\RMS.exe.config
+I:\Course Work\University\5th Semester\Introduction to Software Development\RMS-20171231T215246Z-001\RMS\RMS\obj\Debug\RMS.exe
+I:\Course Work\University\5th Semester\Introduction to Software Development\RMS-20171231T215246Z-001\RMS\RMS\obj\Debug\RMS.pdb
+I:\Course Work\University\5th Semester\Introduction to Software Development\RMS-20171231T215246Z-001\RMS\RMS\bin\Debug\RMS.exe
+I:\Course Work\University\5th Semester\Introduction to Software Development\RMS-20171231T215246Z-001\RMS\RMS\bin\Debug\RMS.pdb
+I:\Course Work\University\5th Semester\Introduction to Software Development\RMS-20171231T215246Z-001\RMS\RMS\bin\Debug\MaterialSkin.dll
+I:\Course Work\University\5th Semester\Introduction to Software Development\RMS-20171231T215246Z-001\RMS\RMS\bin\Debug\MySql.Data.xml
+I:\Course Work\University\5th Semester\Introduction to Software Development\RMS-20171231T215246Z-001\RMS\RMS\obj\Debug\RMS.csprojResolveAssemblyReference.cache
+I:\Course Work\University\5th Semester\Introduction to Software Development\RMS-20171231T215246Z-001\RMS\RMS\obj\Debug\RMS.Admin.resources
+I:\Course Work\University\5th Semester\Introduction to Software Development\RMS-20171231T215246Z-001\RMS\RMS\obj\Debug\RMS.AdminMenu.resources
+I:\Course Work\University\5th Semester\Introduction to Software Development\RMS-20171231T215246Z-001\RMS\RMS\obj\Debug\RMS.EditUser.resources
+I:\Course Work\University\5th Semester\Introduction to Software Development\RMS-20171231T215246Z-001\RMS\RMS\obj\Debug\RMS.LoginForm.resources
+I:\Course Work\University\5th Semester\Introduction to Software Development\RMS-20171231T215246Z-001\RMS\RMS\obj\Debug\RMS.orderMenu.resources
+I:\Course Work\University\5th Semester\Introduction to Software Development\RMS-20171231T215246Z-001\RMS\RMS\obj\Debug\RMS.Properties.Resources.resources
+I:\Course Work\University\5th Semester\Introduction to Software Development\RMS-20171231T215246Z-001\RMS\RMS\obj\Debug\RMS.csproj.GenerateResource.Cache
+I:\Course Work\University\5th Semester\Introduction to Software Development\RMS-20171231T215246Z-001\RMS\RMS\obj\Debug\RMS.ViewSales.resources
+I:\Course Work\University\5th Semester\Introduction to Software Development\RMS-20171231T215246Z-001\RMS\RMS\obj\Debug\RMS.SalesRecord.resources
+C:\Users\Bilal\Desktop\ISDProject\RMS\RMS\bin\Debug\RMS.exe.config
+C:\Users\Bilal\Desktop\ISDProject\RMS\RMS\obj\Debug\RMS.exe
+C:\Users\Bilal\Desktop\ISDProject\RMS\RMS\obj\Debug\RMS.pdb
+C:\Users\Bilal\Desktop\ISDProject\RMS\RMS\bin\Debug\RMS.exe
+C:\Users\Bilal\Desktop\ISDProject\RMS\RMS\bin\Debug\RMS.pdb
+C:\Users\Bilal\Desktop\ISDProject\RMS\RMS\bin\Debug\MaterialSkin.dll
+C:\Users\Bilal\Desktop\ISDProject\RMS\RMS\bin\Debug\MySql.Data.dll
+C:\Users\Bilal\Desktop\ISDProject\RMS\RMS\bin\Debug\MySql.Data.xml
+C:\Users\Bilal\Desktop\ISDProject\RMS\RMS\obj\Debug\RMS.csprojResolveAssemblyReference.cache
+C:\Users\Bilal\Desktop\ISDProject\RMS\RMS\obj\Debug\RMS.Admin.resources
+C:\Users\Bilal\Desktop\ISDProject\RMS\RMS\obj\Debug\RMS.AdminMenu.resources
+C:\Users\Bilal\Desktop\ISDProject\RMS\RMS\obj\Debug\RMS.EditUser.resources
+C:\Users\Bilal\Desktop\ISDProject\RMS\RMS\obj\Debug\RMS.LoginForm.resources
+C:\Users\Bilal\Desktop\ISDProject\RMS\RMS\obj\Debug\RMS.orderMenu.resources
+C:\Users\Bilal\Desktop\ISDProject\RMS\RMS\obj\Debug\RMS.Properties.Resources.resources
+C:\Users\Bilal\Desktop\ISDProject\RMS\RMS\obj\Debug\RMS.SalesRecord.resources
+C:\Users\Bilal\Desktop\ISDProject\RMS\RMS\obj\Debug\RMS.ViewSales.resources
+C:\Users\Bilal\Desktop\ISDProject\RMS\RMS\obj\Debug\RMS.csproj.GenerateResource.Cache
+C:\Users\Bilal\Desktop\SOFTWARE ENGINEERING\ISDProject\RMS\RMS\bin\Debug\RMS.exe.config
+C:\Users\Bilal\Desktop\SOFTWARE ENGINEERING\ISDProject\RMS\RMS\obj\Debug\RMS.exe
+C:\Users\Bilal\Desktop\SOFTWARE ENGINEERING\ISDProject\RMS\RMS\obj\Debug\RMS.pdb
+C:\Users\Bilal\Desktop\ISDProject\RMS\RMS\obj\Debug\RMS.Chef.resources
+C:\Users\Uzair Khan\Desktop\ISDProjectv1\RMS\RMS\bin\Debug\RMS.exe.config
+C:\Users\Uzair Khan\Desktop\ISDProjectv1\RMS\RMS\obj\Debug\RMS.exe
+C:\Users\Uzair Khan\Desktop\ISDProjectv1\RMS\RMS\obj\Debug\RMS.pdb
+C:\Users\Uzair Khan\Desktop\ISDProjectv1\RMS\RMS\bin\Debug\RMS.exe
+C:\Users\Uzair Khan\Desktop\ISDProjectv1\RMS\RMS\bin\Debug\RMS.pdb
+C:\Users\Uzair Khan\Desktop\ISDProjectv1\RMS\RMS\bin\Debug\MaterialSkin.dll
+C:\Users\Uzair Khan\Desktop\ISDProjectv1\RMS\RMS\bin\Debug\MySql.Data.xml
+C:\Users\Uzair Khan\Desktop\ISDProjectv1\RMS\RMS\obj\Debug\RMS.csprojResolveAssemblyReference.cache
+C:\Users\Uzair Khan\Desktop\ISDProjectv1\RMS\RMS\obj\Debug\RMS.Admin.resources
+C:\Users\Uzair Khan\Desktop\ISDProjectv1\RMS\RMS\obj\Debug\RMS.AdminMenu.resources
+C:\Users\Uzair Khan\Desktop\ISDProjectv1\RMS\RMS\obj\Debug\RMS.Chef.resources
+C:\Users\Uzair Khan\Desktop\ISDProjectv1\RMS\RMS\obj\Debug\RMS.EditUser.resources
+C:\Users\Uzair Khan\Desktop\ISDProjectv1\RMS\RMS\obj\Debug\RMS.LoginForm.resources
+C:\Users\Uzair Khan\Desktop\ISDProjectv1\RMS\RMS\obj\Debug\RMS.orderMenu.resources
+C:\Users\Uzair Khan\Desktop\ISDProjectv1\RMS\RMS\obj\Debug\RMS.Properties.Resources.resources
+C:\Users\Uzair Khan\Desktop\ISDProjectv1\RMS\RMS\obj\Debug\RMS.SalesRecord.resources
+C:\Users\Uzair Khan\Desktop\ISDProjectv1\RMS\RMS\obj\Debug\RMS.ViewSales.resources
+C:\Users\Uzair Khan\Desktop\ISDProjectv1\RMS\RMS\obj\Debug\RMS.csproj.GenerateResource.Cache
+C:\Users\hammad\Desktop\New folder (2)\isdprojectv2 (1)\ISDProjectv2\RMS\RMS\bin\Debug\RMS.exe.config
+C:\Users\hammad\Desktop\New folder (2)\isdprojectv2 (1)\ISDProjectv2\RMS\RMS\bin\Debug\RMS.exe
+C:\Users\hammad\Desktop\New folder (2)\isdprojectv2 (1)\ISDProjectv2\RMS\RMS\bin\Debug\RMS.pdb
+C:\Users\hammad\Desktop\New folder (2)\isdprojectv2 (1)\ISDProjectv2\RMS\RMS\bin\Debug\MaterialSkin.dll
+C:\Users\hammad\Desktop\New folder (2)\isdprojectv2 (1)\ISDProjectv2\RMS\RMS\obj\Debug\RMS.csprojResolveAssemblyReference.cache
+C:\Users\hammad\Desktop\New folder (2)\isdprojectv2 (1)\ISDProjectv2\RMS\RMS\obj\Debug\RMS.Admin.resources
+C:\Users\hammad\Desktop\New folder (2)\isdprojectv2 (1)\ISDProjectv2\RMS\RMS\obj\Debug\RMS.AdminMenu.resources
+C:\Users\hammad\Desktop\New folder (2)\isdprojectv2 (1)\ISDProjectv2\RMS\RMS\obj\Debug\RMS.Chef.resources
+C:\Users\hammad\Desktop\New folder (2)\isdprojectv2 (1)\ISDProjectv2\RMS\RMS\obj\Debug\RMS.EditUser.resources
+C:\Users\hammad\Desktop\New folder (2)\isdprojectv2 (1)\ISDProjectv2\RMS\RMS\obj\Debug\RMS.LoginForm.resources
+C:\Users\hammad\Desktop\New folder (2)\isdprojectv2 (1)\ISDProjectv2\RMS\RMS\obj\Debug\RMS.orderMenu.resources
+C:\Users\hammad\Desktop\New folder (2)\isdprojectv2 (1)\ISDProjectv2\RMS\RMS\obj\Debug\RMS.Properties.Resources.resources
+C:\Users\hammad\Desktop\New folder (2)\isdprojectv2 (1)\ISDProjectv2\RMS\RMS\obj\Debug\RMS.SalesRecord.resources
+C:\Users\hammad\Desktop\New folder (2)\isdprojectv2 (1)\ISDProjectv2\RMS\RMS\obj\Debug\RMS.ViewSales.resources
+C:\Users\hammad\Desktop\New folder (2)\isdprojectv2 (1)\ISDProjectv2\RMS\RMS\obj\Debug\RMS.csproj.GenerateResource.Cache
+C:\Users\hammad\Desktop\New folder (2)\isdprojectv2 (1)\ISDProjectv2\RMS\RMS\obj\Debug\RMS.csproj.CoreCompileInputs.cache
+C:\Users\hammad\Desktop\New folder (2)\isdprojectv2 (1)\ISDProjectv2\RMS\RMS\obj\Debug\RMS.exe
+C:\Users\hammad\Desktop\New folder (2)\isdprojectv2 (1)\ISDProjectv2\RMS\RMS\obj\Debug\RMS.pdb
+C:\Users\shaya\Downloads\isdprojectv2\ISDProjectv2\RMS\RMS\bin\Debug\RMS.exe.config
+C:\Users\shaya\Downloads\isdprojectv2\ISDProjectv2\RMS\RMS\obj\Debug\RMS.exe
+C:\Users\shaya\Downloads\isdprojectv2\ISDProjectv2\RMS\RMS\obj\Debug\RMS.pdb
+C:\Users\shaya\Downloads\isdprojectv2\ISDProjectv2\RMS\RMS\bin\Debug\RMS.exe
+C:\Users\shaya\Downloads\isdprojectv2\ISDProjectv2\RMS\RMS\bin\Debug\RMS.pdb
+C:\Users\shaya\Downloads\isdprojectv2\ISDProjectv2\RMS\RMS\bin\Debug\MaterialSkin.dll
+C:\Users\shaya\Downloads\isdprojectv2\ISDProjectv2\RMS\RMS\obj\Debug\RMS.csprojResolveAssemblyReference.cache
+C:\Users\shaya\Downloads\isdprojectv2\ISDProjectv2\RMS\RMS\obj\Debug\RMS.Admin.resources
+C:\Users\shaya\Downloads\isdprojectv2\ISDProjectv2\RMS\RMS\obj\Debug\RMS.AdminMenu.resources
+C:\Users\shaya\Downloads\isdprojectv2\ISDProjectv2\RMS\RMS\obj\Debug\RMS.Chef.resources
+C:\Users\shaya\Downloads\isdprojectv2\ISDProjectv2\RMS\RMS\obj\Debug\RMS.EditUser.resources
+C:\Users\shaya\Downloads\isdprojectv2\ISDProjectv2\RMS\RMS\obj\Debug\RMS.LoginForm.resources
+C:\Users\shaya\Downloads\isdprojectv2\ISDProjectv2\RMS\RMS\obj\Debug\RMS.orderMenu.resources
+C:\Users\shaya\Downloads\isdprojectv2\ISDProjectv2\RMS\RMS\obj\Debug\RMS.Properties.Resources.resources
+C:\Users\shaya\Downloads\isdprojectv2\ISDProjectv2\RMS\RMS\obj\Debug\RMS.SalesRecord.resources
+C:\Users\shaya\Downloads\isdprojectv2\ISDProjectv2\RMS\RMS\obj\Debug\RMS.ViewSales.resources
+C:\Users\shaya\Downloads\isdprojectv2\ISDProjectv2\RMS\RMS\obj\Debug\RMS.csproj.GenerateResource.Cache
