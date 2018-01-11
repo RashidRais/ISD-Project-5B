@@ -72,5 +72,20 @@ namespace RMS
         {
 
         }
+
+        private void btnDecline_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                string msg = "Order Declined";
+                gridDisplay.Rows.Clear();
+                orderMenu menu = orderMenu.getInstance();
+                menu.setChefMsgDec(msg);
+            }
+            catch (Exception g)
+            {
+                MessageBox.Show(g.Message.ToString());
+            }
+        }
     }
 }

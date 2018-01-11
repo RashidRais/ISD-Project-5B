@@ -8,12 +8,13 @@ using System.Threading.Tasks;
 
 namespace RMS
 {
-    class ViewSalesDLL
+    class ViewSalesDLL:DbConnection
     {
         public DataTable view()
         {
+            getSqlConnection();
             string query = "select * from bill ;";
-            MySqlDataAdapter adapter = new MySqlDataAdapter(query, DbConnection.getSqlConnection());
+            MySqlDataAdapter adapter = new MySqlDataAdapter(query, conn);
             DataTable table = new DataTable();
             adapter.Fill(table);
             return table;

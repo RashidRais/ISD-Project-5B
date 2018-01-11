@@ -6,11 +6,13 @@ namespace RMS
     class DbConnection
     {
 
-        public static MySqlConnection getSqlConnection()
+        public static MySqlConnection conn;
+
+        public void getSqlConnection()
         {
-            MySqlConnection connection = new MySqlConnection("server=localhost;Database=RMS;uid=root;pwd=admin;");
-            connection.Open();
-            return connection;
+            conn = new MySqlConnection("server=localhost;Database=RMS;uid=root;");
+            conn.Open();
+            
         }
 
     }

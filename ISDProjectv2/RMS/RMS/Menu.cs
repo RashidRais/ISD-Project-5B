@@ -269,6 +269,10 @@ namespace RMS
             lblChefMsg.Text = msg + " and will be deilvered by" + Time;
             
         }
+        public void setChefMsgDec(string msg)
+        {
+            lblChefMsg.Text = msg;
+        }
         public void orderconfirm()
         {
 

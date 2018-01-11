@@ -8,68 +8,67 @@ using System.Threading.Tasks;
 
 namespace RMS
 {
-    class EditUserDLL
+    class EditUserDLL : DbConnection
     {
         public void updateInsertUser(string btn, string name, string pass, string type, int uId)
         {
-            if (name == "" || pass == "" || type == "")
-            {
-                throw new Exception("Fill all Fields");
-            }
+            
 
-            else if (btn == "Insert")
+            if (btn == "Insert")
             {
+                getSqlConnection();
                 string query = "insert into login (uname,password,type)Values(@uname,@pass,@type);";
-                MySqlCommand sqlCmd = new MySqlCommand(query, DbConnection.getSqlConnection());
+                MySqlCommand sqlCmd = new MySqlCommand(query, conn);
                 sqlCmd.Parameters.AddWithValue("@uname", name);
                 sqlCmd.Parameters.AddWithValue("@pass", pass);
                 sqlCmd.Parameters.AddWithValue("@type", type);
                 sqlCmd.ExecuteNonQuery();
-
+                conn.Close();
             }
             else
             {
+                getSqlConnection();
                 string query = "update login set uname=@uname, password=@pass,type=@type where uid= @uid";
-                MySqlCommand sqlCmd = new MySqlCommand(query, DbConnection.getSqlConnection());
+                MySqlCommand sqlCmd = new MySqlCommand(query, conn);
                 sqlCmd.Parameters.AddWithValue("@uid", uId);
                 sqlCmd.Parameters.AddWithValue("@uname", name);
                 sqlCmd.Parameters.AddWithValue("@pass", pass);
                 sqlCmd.Parameters.AddWithValue("@type", type);
                 sqlCmd.ExecuteNonQuery();
+                conn.Close();
                 throw new Exception("Updated successfully");
 
             }
         }
         public void deleteUser(int uId)
         {
-            if (uId == 0)
-            {
-                throw new Exception("Select User");
-            }
-            else
-            {
-                string query = "delete from login where uid = @uid";
-                MySqlCommand sqlCmd = new MySqlCommand(query, DbConnection.getSqlConnection());
-                sqlCmd.Parameters.AddWithValue("@uid", uId);
-                sqlCmd.ExecuteNonQuery();
-            }
+            getSqlConnection();
+            string query = "delete from login where uid = @uid";
+            MySqlCommand sqlCmd = new MySqlCommand(query, conn);
+            sqlCmd.Parameters.AddWithValue("@uid", uId);
+            sqlCmd.ExecuteNonQuery();
+            conn.Close();
         }
         public DataTable view()
         {
+            getSqlConnection();
             string query = "select * from login ;";
-            MySqlDataAdapter adapter = new MySqlDataAdapter(query, DbConnection.getSqlConnection());
+            MySqlDataAdapter adapter = new MySqlDataAdapter(query, conn);
             DataTable table = new DataTable();
             adapter.Fill(table);
+            conn.Close();
             return table;
         }
         public DataTable search(string search)
         {
+            getSqlConnection();
             //"select * from tbl_Employee where FirstName like '"+txt_SearchName.Text+"%'  "
             string query = "select * from login where uname like '" + search + "%';";
-            MySqlDataAdapter adapter = new MySqlDataAdapter(query, DbConnection.getSqlConnection());
+            MySqlDataAdapter adapter = new MySqlDataAdapter(query, conn);
             //adapter.SelectCommand.Parameters.AddWithValue("@name",txtSearch.Text);
             DataTable table = new DataTable();
             adapter.Fill(table);
+            conn.Close();
             return table;
         }
     }

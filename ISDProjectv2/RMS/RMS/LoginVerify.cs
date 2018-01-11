@@ -9,7 +9,7 @@ using System.Windows.Forms;
 
 namespace RMS
 {
-    class LoginVerify
+    class LoginVerify:DbConnection
     {
         private string msg;
 
@@ -20,8 +20,9 @@ namespace RMS
 
         public int validate(string uname, string pword)
         {
+            getSqlConnection();
             string query = "Select type from login where uname =@uname and password = @pword";
-            MySqlCommand cmd = new MySqlCommand(query, DbConnection.getSqlConnection());
+            MySqlCommand cmd = new MySqlCommand(query, conn);
             cmd.Parameters.AddWithValue("@uname", uname);
             cmd.Parameters.AddWithValue("@pword", pword);
 
@@ -29,7 +30,7 @@ namespace RMS
             DataTable table = new DataTable();
             
             adapter.Fill(table);
-            
+            conn.Close();
             if (table.Rows[0][0].ToString().Equals("admin"))
             {
                 //msg = "Welcome Admin";
